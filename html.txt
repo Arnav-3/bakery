@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESPONSIVE WEBSITE USING HTML AND CSS</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.cdnfonts.com/css/forte" rel="stylesheet">
+
+</head>
+
+<body>
+    <div id="homee"></div>
+    <nav>
+        <div id="upper"><img src="1c.png" alt=""></div>
+            <ul>
+                <li><a href="#homee" id="home">Home</a></li>
+                <li id="products">Products</li>
+                <li id="contact">Contact</li>
+            </ul>
+    </nav>
+    <section>
+        <div id="main">
+            <img id="titlepic" class="title-animation" src="title.PNG ">
+            <span id="title" class="title-animation">Arnav's bakery</span>
+            <img id="pink" src="pink.png" class="image-animation" alt="">
+        </div>
+
+        <div class="space"></div>
+
+        <div class="items">
+            <div class="left">
+                <div class="info">
+                    <div id="item-title-left">Cupcakes</div>
+                    <div id="theory"><br>Delicious muffins that melt in your mouth, starting at just $2.<br>Treat
+                        yourself to
+                        affordable indulgence!</div>
+                </div>
+                <div class="item-image-right">
+                    <img src="muffin.png" id=left alt="">
+                    <div id="background-right"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="space"></div>
+
+        <div class="items">
+            <div class="right">
+                <div class="item-image-left">
+                    <img src="pastry.png" id=right alt="">
+                    <div id="background-left"></div>
+                </div>
+                <div class="info">
+                    <div id="item-title-right">Pastry</div>
+                    <div id="theory"><br>Exquisite pastries that captivate your taste buds.<br>Indulge in our heavenly
+                        creations
+                        starting at just $2.<br>Treat yourself today!</div>
+                </div>
+            </div>
+        </div>
+        <div class="space"></div>
+
+        <footer>
+            <div id="social">
+                <ul>
+                    <li><img src="insta.png"></li>
+                    <li><img src="twitter.png"></li>
+                    <li><img src="facebook.png"></li>
+                </ul>
+            </div>
+        </footer>
+</body>
+
+</html>
+
+**********************************
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESPONSIVE WEBSITE USING HTML AND CSS</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.cdnfonts.com/css/forte" rel="stylesheet">
+</head>
+
+<body>
+    <div id="homee"></div>
+    <nav>
+        <div id="upper"><img src="iccc.png" alt=""></div>
+            <div id="navbar">
+                <ul>
+                    <li><a href="#homee" id="home">Home</a></li>
+                    <li id="products">Products</li>
+                    <li><a href="#social" id="home">Contact</a></li>
+                </ul>
+            </div>
+            <div id="menu"></div>
+    </nav>
+    <section>
+        <div id="main">
+            <img id="titlepic" class="title-animation" src="title.PNG ">
+            <span id="title" class="title-animation">Arnav's bakery</span>
+            <img id="pink" src="pink.png" class="image-animation" alt="">
+        </div>
+
+        <div class="space"></div>
+
+        <div class="items">
+            <div class="left">
+                <div class="info">
+                    <div id="item-title-left">Cupcakes</div>
+                    <div id="theory"><br>Delicious muffins that melt in your mouth, starting at just $2.<br>Treat
+                        yourself to
+                        affordable indulgence!</div>
+                </div>
+                <div class="item-image-right">
+                    <img src="muffin.png" id=left alt="">
+                    <div id="background-right"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="space"></div>
+
+        <div class="items">
+            <div class="right">
+                <div class="item-image-left">
+                    <img src="pastry.png" id=right alt="">
+                    <div id="background-left"></div>
+                </div>
+                <div class="info">
+                    <div id="item-title-right">Pastry</div>
+                    <div id="theory"><br>Exquisite pastries that captivate your taste buds.<br>Indulge in our heavenly
+                        creations
+                        starting at just $2.<br>Treat yourself today!</div>
+                </div>
+            </div>
+        </div>
+        <div class="space"></div>
+
+        <footer>
+            <div id="social">
+                <div id="link"><img src="insta.png"></div>
+                <div id="link"><img src="twitter.png"></div>
+                <div id="link"><img src="facebook.png"></div>
+            </div>
+        </footer>
+</body>
+
+</html>
+***************************************
